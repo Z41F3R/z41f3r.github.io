@@ -1,5 +1,5 @@
-baseURL = "https://z41f3r.github.io/"
-title = "Z4IF3R"
+baseURL = "https://Z41F3R.github.io/"
+title = "Z41F3R"
 theme = "hugo-coder" 
 languageCode = "en" 
 defaultContentLanguage = "en" 
@@ -16,7 +16,7 @@ enableEmoji = true
   noClasses = false
 
 [params]
-author = "Z4IF3R"
+author = "Z41F3R"
 description = "HACKING ETICAL"
 keywords = "blog,developer,personal"
 info = ["Hacking Etical", "Red Teamer", "Penetration Tester"]
@@ -44,7 +44,7 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/Z4IF3R/"
+url = "https://github.com/Z41F3R"
 
 [[params.social]]
 name = "HackTheBox"
@@ -56,7 +56,7 @@ url = "https://app.hackthebox.com/profile/#1995208"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "z4if3r"
+name = "z41f3r"
 weight = 1
 url = "about/"
 
@@ -80,13 +80,13 @@ languageName = ":chile:"
 title = "Z4IF3R"
 
 [languages.es.params]
-author = "Z4IF3R"
+author = "Z41F3R"
 info = ["Hacker Etico", "Equipo Rojo", "Pentester"]
 description = ""
 keywords = ""
 
 [[languages.es.menu.main]]
-name = "z4if3r"
+name = "z41f3r"
 weight = 1
 url = "about/"
 
