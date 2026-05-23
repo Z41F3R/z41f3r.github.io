@@ -19,7 +19,7 @@ enableEmoji = true
 author = "Z41F3R"
 description = "HACKING ETICAL"
 keywords = "blog,developer,personal"
-info = ["Hacking Etical", "Red Teamer", "Penetration Tester"]
+info = ["Ethical Hacking", "Red Teamer", "Offensive Security"]
 avatarURL = "images/avatar.png"
 faviconSVG = "/images/avatar.svg"
 dateFormat = "January 2, 2006"
@@ -46,12 +46,6 @@ icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/Z41F3R"
 
-[[params.social]]
-name = "HackTheBox"
-icon = "fa fa-cube fa-2x"
-weight = 7
-url = "https://app.hackthebox.com/profile/#1995208"
-
 [languages.en]
 languageName = ":uk:"
 
@@ -70,10 +64,10 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact"
-weight = 5
-url = "contact/"
+#[[languages.en.menu.main]]
+#name = "Contact"
+#weight = 4
+#url = "contact/"
 
 [languages.es]
 languageName = ":chile:"
@@ -81,7 +75,7 @@ title = "Z4IF3R"
 
 [languages.es.params]
 author = "Z41F3R"
-info = ["Hacker Etico", "Equipo Rojo", "Pentester"]
+info = ["Hacking Ético", "Red Teamer", "Seguridad Ofensiva"]
 description = ""
 keywords = ""
 
@@ -100,7 +94,7 @@ name = "Proyectos"
 weight = 3
 url = "proyectos/"
 
-[[languages.es.menu.main]]
-name = "Contacto"
-weight = 5
-url = "contact/"
+#[[languages.es.menu.main]]
+#name = "Contacto"
+#weight = 4
+#url = "contact/"

@@ -7,5 +7,19 @@
     <generator>Hugo</generator>
     <language>es</language>
     <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyectos</title>
+      <link>http://localhost:1313/es/proyectos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/proyectos/</guid>
+      <description>&lt;h2 id=&#34;--overthewire-bandit-writeups&#34;&gt;&#xA;  🟢  OverTheWire Bandit Writeups&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#--overthewire-bandit-writeups&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Projects/bandit.png&#34; alt=&#34;texto alternativo&#34;&gt;&#xA;Análisis práctico de vulnerabilidades en entornos Linux a través de retos CTF, enfocado en la identificación y explotación de debilidades del sistema y el desarrollo de pensamiento ofensivo.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desarrollo de pensamiento ofensivo y capacidad para analizar y explotar debilidades de sistemas Linux de manera estratégica.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Exploración de sistemas Linux, interpretación de scripts y tareas automatizadas, identificación de puntos de privilegio y manipulación controlada de datos para extraer información.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whoami</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;┌──&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;z41f3r㉿root&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;-&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;~&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;└─$ whoami&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Z41F3R &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;Steven Guzman&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Especialista en soporte técnico con más de 3 años de experiencia en infraestructura, redes, sistemas y resolución de incidencias en entornos empresariales, trabajando con soluciones de software y hardware.&lt;/p&gt;&#xA;&lt;p&gt;Apasionado por la ciberseguridad ofensiva y el hacking ético, con formación completamente autodidacta y enfoque constante en Offensive Security, análisis de vulnerabilidades, explotación de sistemas y operaciones Red Team.&lt;/p&gt;&#xA;&lt;p&gt;Mi experiencia práctica ha sido desarrollada mediante laboratorios, investigación, CTFs, entornos reales de pentesting y aprendizaje continuo orientado a técnicas ofensivas modernas.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
