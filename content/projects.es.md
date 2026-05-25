@@ -17,6 +17,14 @@ Análisis práctico de vulnerabilidades en entornos Linux a través de retos CTF
 
 ---
 ---
-## 🟢 Offensive Python Toolkit
+## 🟢 Py Learning Journey
 ![texto alternativo](/images/Projects/python_ofensive.png)
-En proceso
+Recorrido práctico aprendiendo Python desde cero con mentalidad de seguridad ofensiva, enfocado en lógica de programación, automatización, scripting y desarrollo de herramientas para entornos de ciberseguridad y Red Team.
+
+- Desarrollo progresivo de habilidades de resolución de problemas mediante ejercicios enfocados en conceptos fundamentales de Python y práctica real escribiendo código.
+
+- Exploración progresiva de fundamentos de programación, lógica computacional, resolución de problemas y construcción de herramientas mediante práctica constante, debugging y análisis del comportamiento del código.
+
+- Documentación continua del proceso de aprendizaje, soluciones, conceptos, errores y mejoras como parte de una evolución constante en Python orientado a offensive security.
+
+🔗 [Ver en GitHub](https://github.com/Z41F3R/Py_Learning_Journey)
